@@ -8,7 +8,7 @@ public class helloWorld {
 
     @GetMapping("/getName")
     public String printName(){
-        return "Hello Swarna!!! Welcomeeeeee";
+        return "Hello Swarna!!! Welcomeeeeees";
 
     }
 }
